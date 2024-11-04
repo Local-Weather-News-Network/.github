@@ -1,6 +1,6 @@
 # Local Weather News Network (LWNN)
 
-![LWNN Logo](logo.png)
+![LWNN Logo](LWNN_Logo_LWNN_FullClr_REV.png)
 
 Welcome to the GitHub profile of the **Local Weather News Network (LWNN)**. We are dedicated to providing continuous, localized weather forecasts and coverage to communities across the United States and beyond. Our goal is to make weather information accessible, engaging, and informative, no matter where you are.
 
